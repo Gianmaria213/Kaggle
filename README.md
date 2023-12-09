@@ -9,4 +9,3 @@ It's important to note that the format of submissions may vary depending on the 
 
 Feel free to explore each subfolder for detailed notebooks, code, and additional documentation related to each competition.
 
-**Note:** Before referencing specific details, ensure that the information is up-to-date and accurately reflects your Kaggle work.
